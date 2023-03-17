@@ -11,7 +11,7 @@ class Rectangulo {
 
 const r = new Rectangulo() // Instancia de clase
 
-// clases declaradas con funciton, si tienen hoisting
+// clases declaradas con function, si tienen hoisting
 function rectangulo() { }
 
 class Chancho {
