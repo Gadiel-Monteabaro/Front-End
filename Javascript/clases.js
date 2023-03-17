@@ -34,7 +34,4 @@ class Chancho {
     }
 }
 
-Chancho.comer();
-
 const feliz = new Chancho(); // Instancia de clases.
-n
